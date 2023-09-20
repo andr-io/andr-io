@@ -1,12 +1,12 @@
 # redme
-![alt text](snake.gif)
-![alt text](tetris.gif)
-![alt text](mandelbrot.gif)
-![alt text](conway.gif)
-![alt text](chess.gif)
-![alt text](php.gif)
-![alt text](mannequin.gif)
-![alt text](hangul.gif)
-![alt text](ball.gif)
-![alt text](tsp.gif)
+<img src="snake.gif" width="332" height="332">
+<img src="tetris.gif" width="332" height="332">
+<img src="mandelbrot.gif" width="332" height="332">
+<img src="conway.gif" width="332" height="332">
+<img src="chess.gif" width="332" height="332">
+<img src="php.gif" width="332" height="332">
+<img src="mannequin.gif" width="332" height="332">
+<img src="hangul.gif" width="332" height="332">
+<img src="ball.gif" width="332" height="332">
+<img src="tsp.gif" width="332" height="332">
 <img src="port.png" width="332" height="332">
