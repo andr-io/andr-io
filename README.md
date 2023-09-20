@@ -16,4 +16,5 @@
   <img src="cats.gif" width="332" height="332">
   <img src="hota.gif" width="332" height="332">
   <img src="splitwise.gif" width="332" height="332">
+  <img src="products.gif" width="332" height="332">
 </p>
