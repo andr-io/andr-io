@@ -1,4 +1,3 @@
-# redme
 <p float="left">
   <img src="snake.gif" width="332" height="332">
   <img src="chess.gif" width="332" height="332">
