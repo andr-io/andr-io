@@ -5,17 +5,17 @@
   <img src="splitwise.gif" width="332" height="332">
   <img src="tetris.gif" width="332" height="332">
   <img src="mandelbrot.gif" width="332" height="332">
+  <img src="chip8.gif" width="332" height="332">
   <img src="conway.gif" width="332" height="332">
+  <img src="port.png" width="332" height="332">
   <img src="mannequin.gif" width="332" height="332">
   <img src="hangul.gif" width="332" height="332">
   <img src="ball.gif" width="332" height="332">
   <img src="tsp.gif" width="332" height="332">
-  <img src="port.png" width="332" height="332">
-  <img src="chip8.gif" width="332" height="332">
-  <img src="tyson.gif" width="332" height="332">
   <img src="documentation.gif" width="332" height="332">
-  <img src="cats.gif" width="332" height="332">
   <img src="hota.gif" width="332" height="332">
   <img src="products.gif" width="332" height="332">
+  <img src="tyson.gif" width="332" height="332">
+  <img src="cats.gif" width="332" height="332">
   <img src="news.gif" width="332" height="332">
 </p>
