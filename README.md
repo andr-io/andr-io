@@ -21,8 +21,8 @@
     <img src="images/hota.gif"            width="332" height="332">
     <img src="webp/products.webp"         width="332" height="332">
     <img src="images/tictactoe.gif"       width="332" height="332">
-    <img src="images/ida.gif"             width="332" height="332">
-    <img src="images/queens.gif"          width="332" height="332">
+    <img src="images/ida.png"             width="332" height="332">
+    <img src="images/queens.png"          width="332" height="332">
     <img src="webp/tyson.webp"            width="332" height="332">
     <img src="images/cats.gif"            width="332" height="332">
     <img src="images/news.gif"            width="332" height="332">
