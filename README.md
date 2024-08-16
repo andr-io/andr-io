@@ -1,5 +1,5 @@
-<details open>
-  <summary></summary>
+<details>
+  <summary>Click to see projects I've worked on while in university</summary>
   <p float="left">
     <img src="webp/snake.webp"                                      width="332" height="332">
     <img src="webp/chess.webp"                                      width="332" height="332">
