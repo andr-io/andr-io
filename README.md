@@ -1,4 +1,4 @@
-[Projects I've worked on while in university](other_file.md)    
+[Projects I've worked on while in university](Uni.md)    
     
 <img src="svg/yes.svg">
 
