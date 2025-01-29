@@ -29,5 +29,6 @@
     <img src="images/news.gif"                                      width="332" height="332">
     <img src="images/java-chess.gif"                                width="332" height="332">
     <img src="images/hotel.gif"                                     width="332" height="332">
+    <img src="images/medical.gif"                                   width="332" height="332">
   </p>
 </details>
