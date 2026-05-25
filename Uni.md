@@ -31,5 +31,6 @@
     <img src="images/hotel.gif"                                     width="332" height="332">
     <img src="images/medical.gif"                                   width="332" height="332">
     <img src="images/circles.gif"                                   width="332" height="332">
+    <img src="webp/memory.webp"                                   width="332" height="332">
   </p>
 </details>
